@@ -1,3 +1,4 @@
 [submodule "themes/jacman"]
 	path = themes/jacman
 	url = https://github.com/lczhou/jacman.git
+	branch = customized
